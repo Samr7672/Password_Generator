@@ -1,0 +1,22 @@
+main{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    display:flex;
+    
+    justify-content: center;
+    align-items: center; 
+}
+
+#pass{
+    background-color: blanchedalmond;
+    height:200px;
+    width:600px;
+    margin-left: 300px;
+    margin-top:200px;
+    padding:20px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center; 
+    align-items:center;
+}
